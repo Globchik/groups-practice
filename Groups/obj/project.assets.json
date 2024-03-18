@@ -1,7 +1,11 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net8.0": {
+=======
+    "net6.0": {
+>>>>>>> implement_person_and_person_children
       "Microsoft.CodeCoverage/17.9.0": {
         "type": "package",
         "compile": {
@@ -287,16 +291,25 @@
       "MSTest.TestFramework/3.2.2": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+=======
+          "lib/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+>>>>>>> implement_person_and_person_children
             "related": ".xml"
           }
         },
         "runtime": {
+<<<<<<< HEAD
           "lib/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+=======
+          "lib/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+>>>>>>> implement_person_and_person_children
             "related": ".xml"
           }
         },
         "resource": {
+<<<<<<< HEAD
           "lib/net8.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
             "locale": "cs"
           },
@@ -334,11 +347,54 @@
             "locale": "zh-Hans"
           },
           "lib/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+=======
+          "lib/net6.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll": {
+>>>>>>> implement_person_and_person_children
             "locale": "zh-Hant"
           }
         },
         "build": {
+<<<<<<< HEAD
           "build/net8.0/MSTest.TestFramework.targets": {}
+=======
+          "build/net6.0/MSTest.TestFramework.targets": {}
+>>>>>>> implement_person_and_person_children
         }
       },
       "Newtonsoft.Json/13.0.1": {
@@ -897,7 +953,11 @@
     }
   },
   "projectFileDependencyGroups": {
+<<<<<<< HEAD
     "net8.0": [
+=======
+    "net6.0": [
+>>>>>>> implement_person_and_person_children
       "MSTest.TestFramework >= 3.2.2",
       "Microsoft.NET.Test.Sdk >= 17.9.0",
       "NUnit >= 4.1.0",
@@ -921,15 +981,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -940,8 +1000,13 @@
       }
     },
     "frameworks": {
+<<<<<<< HEAD
       "net8.0": {
         "targetAlias": "net8.0",
+=======
+      "net6.0": {
+        "targetAlias": "net6.0",
+>>>>>>> implement_person_and_person_children
         "dependencies": {
           "MSTest.TestFramework": {
             "target": "Package",

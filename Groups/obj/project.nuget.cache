@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dHz5VkuMEd+A+tROSsjF7U5YNl9x1xmXWDazAOrY+hQaorAHk6naD6GFArnRefu43CzlWb48ioNxPF3WDM7wnw==",
+=======
+  "dgSpecHash": "WC6QOopfHSd6eGaoAIt/w8+rhapIewOoVdKhLDMAUsDV0n2WHACMhoQ2CGZECHFR4WHHBM1D/TmKdN0YavIr5Q==",
+>>>>>>> implement_person_and_person_children
   "success": true,
   "projectFilePath": "D:\\College\\C_sharp_proj\\Groups\\Groups\\Groups.csproj",
   "expectedPackageFiles": [

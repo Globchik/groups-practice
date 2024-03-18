@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "dHz5VkuMEd+A+tROSsjF7U5YNl9x1xmXWDazAOrY+hQaorAHk6naD6GFArnRefu43CzlWb48ioNxPF3WDM7wnw==",
-=======
   "dgSpecHash": "WC6QOopfHSd6eGaoAIt/w8+rhapIewOoVdKhLDMAUsDV0n2WHACMhoQ2CGZECHFR4WHHBM1D/TmKdN0YavIr5Q==",
->>>>>>> implement_person_and_person_children
   "success": true,
   "projectFilePath": "D:\\College\\C_sharp_proj\\Groups\\Groups\\Groups.csproj",
   "expectedPackageFiles": [
@@ -18,5 +14,12 @@
     "C:\\Users\\Artem\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\Artem\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\College\\C_sharp_proj\\Groups\\Groups\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

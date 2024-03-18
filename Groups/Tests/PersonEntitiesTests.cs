@@ -1,7 +1,6 @@
 ﻿using NUnit.Framework;
 
 using Groups.Implementions;
-using System.Xml.Linq;
 using Students.Implementations;
 
 namespace Groups.Tests

@@ -37,13 +37,8 @@
         }
       },
       "frameworks": {
-<<<<<<< HEAD
-        "net8.0": {
-          "targetAlias": "net8.0",
-=======
         "net6.0": {
           "targetAlias": "net6.0",
->>>>>>> implement_person_and_person_children
           "dependencies": {
             "MSTest.TestFramework": {
               "target": "Package",
